@@ -1,0 +1,6 @@
+*.workspace
+*Autosaved*
+Project Backups/
+.DS_Store
+Thumbs.db
+
